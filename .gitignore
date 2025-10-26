@@ -1,0 +1,38 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity settings (user specific)
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.userprefs
+*.suo
+*.user
+*.pidb
+*.sln.docstates
+*.csproj
+*.unityproj
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Packages cache
+Packages/packages-lock.json
+
+# Local config files
+.env
+local_config.json
+Assets/Config/yandex_ads_config.json
+
+# Crashlytics, analytics, etc.
+*.crash
+*.stacktrace
